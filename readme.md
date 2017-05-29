@@ -5,8 +5,8 @@ Finally I wrote this AutoHotkey script to rescure my mouse...
 -----------
 
 1. Download and install [AutoHotkey](https://autohotkey.com/)
-- Use QuickBuild.ahk in this repo
-- Run Cognex QuickBuild to test
+2. Use QuickBuild.ahk in this repo
+3. Run Cognex QuickBuild to test
 
 -----------
 
