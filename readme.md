@@ -4,13 +4,15 @@ Finally I wrote this AutoHotkey script to rescure my mouse...
 
 -----------
 
-- Download and install [AutoHotkey](https://autohotkey.com/)
-- use QuickBuild.ahk in this repo
-- run Cognex QuickBuild to test
+1. Download and install [AutoHotkey](https://autohotkey.com/)
+- Use QuickBuild.ahk in this repo
+- Run Cognex QuickBuild to test
 
 -----------
 
-|                                   before                                     |                                                                    after                                                                     |
+Attention: heavily used `MouseClick` of AHK, please hover curser to item before press hotkeys.
+
+|                                   Before                                     |                                                                    After                                                                     |
 |------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | ![](http://media.linuxsand.info/image/ahk_qb/ahk-qb-top-level-rename.jpg)    | F2: rename jobs                                                                                                                              |
 | ![](http://media.linuxsand.info/image/ahk_qb/ahk-qb-job-level-functions.jpg) | F5: run once<br />F10: float display<br />F6: run continously<br />F11: live display<br />Shift + T: insert VisionPro Tool           |
