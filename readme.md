@@ -10,7 +10,7 @@ Finally I wrote this AutoHotkey script to rescure my mouse...
 
 -----------
 
-Attention: heavily used `MouseClick` of AHK, please hover curser to item before press hotkeys.
+Attention: heavily used `MouseClick` of AHK, please hover curser to item before pressing hotkeys.
 
 |                                   Before                                     |                                                                    After                                                                     |
 |------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|

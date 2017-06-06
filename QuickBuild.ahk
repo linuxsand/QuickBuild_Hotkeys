@@ -118,5 +118,10 @@ F11::
   send l ; local display
   send l ; live display
   send {enter}
+  WinWait, Live Display
+  WinMaximize
+  mouseclick, right
+  send, f ; fit image 
+  send, {enter}
 return
 #ifWinActive
