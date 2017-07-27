@@ -12,9 +12,9 @@ F2::
   send n
 return
 
-Enter::
-  send {click 2}
-return
+; Enter::
+;   send {click 2}
+; return
 #IfWinActive
 
 ; -------------------------------------------------------------
@@ -22,9 +22,9 @@ return
 ; job level
 #IfWinActive VisionPro(R) QuickBuild Job Editor
 
-Enter::
-  send {click 2}
-return
+; Enter::
+;   send {click 2}
+; return
 
 ; rename, hover mouse at the vision tool
 F2::

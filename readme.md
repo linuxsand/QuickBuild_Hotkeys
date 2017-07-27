@@ -6,7 +6,7 @@ Finally I wrote this AutoHotkey script to rescure my mouse...
 
 1. Download and install [AutoHotkey](https://autohotkey.com/)
 2. Use QuickBuild.ahk in this repo
-3. Run Cognex QuickBuild to test
+3. Open Cognex VisionPro QuickBuild, set its language to english
 
 -----------
 
